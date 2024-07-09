@@ -8,6 +8,8 @@ public class baseTests {
 
 	public static void main(String[] args) {
 		System.out.println("this is base tests class");
+		System.out.println("this is 2nd line text added to base tests class");
+		
 	}
 
 }
